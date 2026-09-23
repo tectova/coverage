@@ -1,0 +1,13 @@
+# Notice
+
+## Licence
+
+The aggregate coverage figures and text in this repository (`coverage.csv`, `publication_accounting.json`, `snapshot.json`, `README.md` and `CITATION.cff`) are published by Tectova under the [Creative Commons Attribution 4.0 International licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). The licence text is in [LICENSE](https://github.com/tectova/coverage/blob/main/LICENSE), the unmodified CC BY 4.0 legal code; this notice is at [NOTICE](https://github.com/tectova/coverage/blob/main/NOTICE).
+
+The licence does not extend to Tectova's underlying database, person-level records, third-party source material, images or trademarks.
+
+## How to cite
+
+Tectova requests attribution in this form: *Tectova, “[page title],” tectova.com/[path], accessed [date].*
+
+Cite a coverage row to https://tectova.com/shows#archive-coverage and the publication accounting to https://tectova.com/methodology#publication-accounting, not to GitHub. When quoting a figure, retain the geography, category and as-of date displayed on the supporting page. This is a request from Tectova, not an additional condition on reuse under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
