@@ -1,6 +1,6 @@
 {
   "as_of": "2026-09-24",
-  "build_commit": "97c84e5d64dfda6a3116b0a02e068524cd5b9b66",
+  "build_commit": "8d5b3e91b1f2261a36d59e809f914cc20df92adf",
   "bundle_id": "50034595a55bcf4945597e19553e8ceeba2a66b5bd4e9bf239aebc3b5844c536",
   "bundle_manifest_sha256": "e9350362d60890d07d0f610c5aad01f0e46a2577940a63a4b73776eae4fc78e4",
   "coverage_csv": {
@@ -16,7 +16,7 @@
   "generated_at": "2026-09-24T00:00:00Z",
   "metrics_run_id": "020ef9fff22cc63470b5",
   "public_runway_policy": "big-four-2002-v1",
-  "release_id": "20260924T070753Z-97c84e5d64df",
+  "release_id": "20260924T084121Z-8d5b3e91b1f2",
   "schema": "tectova.github-coverage-snapshot/v1",
   "shows_payload_sha256": "8bd174b8ab20e16550db78c306fba27c637a4433f733758345f44cb429d1bc3d",
   "source_snapshot": {

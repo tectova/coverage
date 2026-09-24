@@ -1,6 +1,6 @@
 # Tectova coverage
 
-Aggregate counts from Tectova's published Big Four runway record, as of 2026-09-24 (release `20260924T070753Z-97c84e5d64df`). The live pages on tectova.com are canonical; every figure here is the one those pages display for the same release, and `snapshot.json` names the data bundle and build commit it came from.
+Aggregate counts from Tectova's published Big Four runway record, as of 2026-09-24 (release `20260924T084121Z-8d5b3e91b1f2`). The live pages on tectova.com are canonical; every figure here is the one those pages display for the same release, and `snapshot.json` names the data bundle and build commit it came from.
 
 ## Files
 
