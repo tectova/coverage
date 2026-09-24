@@ -1,8 +1,8 @@
 {
-  "as_of": "2026-09-23",
-  "build_commit": "ba6e9446f9725c2db7ff525890a54dab5679af93",
-  "bundle_id": "6681c97ca046f3451e1bb0ced97e1669f95aed07aca5e81e8d12c71644098687",
-  "bundle_manifest_sha256": "41c728add1ef0e00149d848f513da6d8283526d433cdfa65e321a56ba72d1042",
+  "as_of": "2026-09-24",
+  "build_commit": "97c84e5d64dfda6a3116b0a02e068524cd5b9b66",
+  "bundle_id": "50034595a55bcf4945597e19553e8ceeba2a66b5bd4e9bf239aebc3b5844c536",
+  "bundle_manifest_sha256": "e9350362d60890d07d0f610c5aad01f0e46a2577940a63a4b73776eae4fc78e4",
   "coverage_csv": {
     "cite_path": "/methodology#publication-accounting",
     "end_year": 2026,
@@ -13,10 +13,10 @@
     "start_year": 2002
   },
   "export_format": 1,
-  "generated_at": "2026-09-23T00:00:00Z",
-  "metrics_run_id": "c537e5039da78f2fd3b8",
+  "generated_at": "2026-09-24T00:00:00Z",
+  "metrics_run_id": "020ef9fff22cc63470b5",
   "public_runway_policy": "big-four-2002-v1",
-  "release_id": "20260923T192609Z-ba6e9446f972",
+  "release_id": "20260924T070753Z-97c84e5d64df",
   "schema": "tectova.github-coverage-snapshot/v1",
   "shows_payload_sha256": "8bd174b8ab20e16550db78c306fba27c637a4433f733758345f44cb429d1bc3d",
   "source_snapshot": {
@@ -24,7 +24,7 @@
     "source_profile_identity_authority.sha256": "ea3fc4f3e659522a524f192324af6d97483c31a91bc29294f2b4b254075ee2d1",
     "talent_metrics.appearance_audit_sha256": "be4f1aef2705b88f271d429bef155d03d985f916644ccb6293909cb2604db64b",
     "talent_metrics.cohort_sha256": "70b0578f76ce34c2bc90d6b341ac169a54f1dbf086734f1173901a46b8487912",
-    "talent_metrics.manifest_payload_sha256": "fb9abcbc175ffb74486aa19383c47afb6c40f71865874635fac652990d7aa399",
-    "talent_metrics.metric_facts_sha256": "16fca019f6d93f83ce29997017041acd9c036cac67e0ff3847c7e35c3f3f0b32"
+    "talent_metrics.manifest_payload_sha256": "8ef88c50f4516c780356a709f9c19bdb0f8942b0ebe06b568648b1f61ce32536",
+    "talent_metrics.metric_facts_sha256": "cd4bf49615929587315f2f314c3d763e6975b4912df5c603a02ffe51b2b680d6"
   }
 }
