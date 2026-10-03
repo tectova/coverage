@@ -1,13 +1,13 @@
 {
-  "as_of": "2026-10-01",
+  "as_of": "2026-10-03",
   "cite_path": "/methodology#publication-accounting",
   "conservation": {
     "holds": true,
-    "input_candidates": 53981,
-    "published_shows": 18147,
+    "input_candidates": 53998,
+    "published_shows": 18164,
     "sum_omitted_by_reason": 35834
   },
-  "input_candidates": 53981,
+  "input_candidates": 53998,
   "omitted_by_reason": {
     "before_2002": 735,
     "brand_gate": 1374,
@@ -17,5 +17,5 @@
     "outside_big_four": 11397
   },
   "omitted_total": 35834,
-  "published_shows": 18147
+  "published_shows": 18164
 }
