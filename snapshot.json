@@ -1,30 +1,30 @@
 {
-  "as_of": "2026-10-03",
-  "build_commit": "d48d8cbf118612e2d23997010a21179d4d5c806d",
-  "bundle_id": "289045bb9244d0b48985308db6561d65bc88f79e585646dd6f7508716d33d03c",
-  "bundle_manifest_sha256": "33615d25d75aeac81612450fccdb2f06e3bc5d1f16b6d897e506524fd889f11c",
+  "as_of": "2026-10-04",
+  "build_commit": "e79279fa01b7a37244c2d0e0eb051330fb4623fe",
+  "bundle_id": "655496fb1a9acedce09133849cf4b117928fc29c9870197a3bb787f24c69cfc2",
+  "bundle_manifest_sha256": "9bf044f425e38a71e54db756f01df88ebf68138f436f4591921bb3fb945d3f02",
   "coverage_csv": {
     "cite_path": "/methodology#publication-accounting",
     "end_year": 2026,
-    "excluded_future_collection_shows": 353,
+    "excluded_future_collection_shows": 364,
     "exclusion_reason": "collection_year_after_as_of_year",
-    "full_published_shows": 18166,
+    "full_published_shows": 18177,
     "published_shows": 17813,
     "start_year": 2002
   },
   "export_format": 1,
-  "generated_at": "2026-10-03T00:00:00Z",
-  "metrics_run_id": "e2e3656dd3f5fad8476e",
+  "generated_at": "2026-10-04T00:00:00Z",
+  "metrics_run_id": "884f403682c3f7a1f3c3",
   "public_runway_policy": "big-four-2002-v1",
-  "release_id": "20261003T130000Z-d48d8cbf1186",
+  "release_id": "20261004T172857Z-e79279fa01b7",
   "schema": "tectova.github-coverage-snapshot/v1",
-  "shows_payload_sha256": "baa81da52cafa6ef51c0e5b52636c76fb12aa45bcadd597e597b1d649942f406",
+  "shows_payload_sha256": "1f0bc80ce75430ef8dca645f75fe8e202cad3ffc013c327cdb434bf8664cb763",
   "source_snapshot": {
-    "database.payload_sha256": "06761ae20423ec5a88a696294473ef31567d586a43580333b25c083b91c72249",
+    "database.payload_sha256": "231b4b58758e8cd5f29aebd0b4147eb881de2d89311bc0c1fb0728df9be334f5",
     "source_profile_identity_authority.sha256": "ea3fc4f3e659522a524f192324af6d97483c31a91bc29294f2b4b254075ee2d1",
-    "talent_metrics.appearance_audit_sha256": "17b0acda1420bd7d55674ecde67940565f58a0821dc4291a81470267212b53a4",
+    "talent_metrics.appearance_audit_sha256": "68f70317eff7000a370dc3ba72d230ed3522d67b36103750a8e905fac03afeea",
     "talent_metrics.cohort_sha256": "70b0578f76ce34c2bc90d6b341ac169a54f1dbf086734f1173901a46b8487912",
-    "talent_metrics.manifest_payload_sha256": "eb90b161486d7aa83d72664c5684327483359a182b11ac69bd38f9ef90abc272",
-    "talent_metrics.metric_facts_sha256": "55b890bc4c685641206ca20a6318e6839c65ac83bd43ce882e21ff9532d81807"
+    "talent_metrics.manifest_payload_sha256": "8c12c6aa75677f3741c18f688626c5f6aa12d2bb3b1de42defe5f313909b90fb",
+    "talent_metrics.metric_facts_sha256": "2d74e92112c6c27081a7cea996c295cb48eddaace8e541eda9c795ccbe1b0f25"
   }
 }
