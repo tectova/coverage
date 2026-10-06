@@ -4,9 +4,9 @@ title: "Tectova Coverage"
 authors:
   - name: "Tectova"
 type: "dataset"
-version: "20261004T172857Z-e79279fa01b7"
-date-released: 2026-10-04
-commit: "e79279fa01b7a37244c2d0e0eb051330fb4623fe"
+version: "20261005T214336Z-b7b28910c96d"
+date-released: 2026-10-05
+commit: "b7b28910c96da57ed72b4eab7f638d4db23e4fac"
 url: "https://tectova.com/shows#archive-coverage"
 repository: "https://github.com/tectova/coverage"
 license: "CC-BY-4.0"

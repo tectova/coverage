@@ -1,6 +1,6 @@
 # Tectova coverage
 
-Aggregate counts from Tectova's published Big Four runway record, as of 2026-10-04 (release `20261004T172857Z-e79279fa01b7`). The live pages on tectova.com are canonical; every figure here is the one those pages display for the same release, and `snapshot.json` names the data bundle and build commit it came from.
+Aggregate counts from Tectova's published Big Four runway record, as of 2026-10-05 (release `20261005T214336Z-b7b28910c96d`). The live pages on tectova.com are canonical; every figure here is the one those pages display for the same release, and `snapshot.json` names the data bundle and build commit it came from.
 
 ## Files
 
@@ -21,7 +21,7 @@ These counts describe documented source-backed records, not complete industry or
 
 ## Archive range and published total
 
-The CSV covers 2002 through 2026, the as-of year. Its published total is 17,813. Every published show whose collection year is after the as-of year is excluded from the current archive range; there are 364 such shows, so 17,813 + 364 = 18,177, the full published total in `publication_accounting.json`. The same figures are in `snapshot.json` under `coverage_csv`.
+The CSV covers 2002 through 2026, the as-of year. Its published total is 17,813. Every published show whose collection year is after the as-of year is excluded from the current archive range; there are 373 such shows, so 17,813 + 373 = 18,186, the full published total in `publication_accounting.json`. The same figures are in `snapshot.json` under `coverage_csv`.
 
 ## Licence
 
